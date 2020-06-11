@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/Anviking/Decodable"
   s.license          = 'MIT'
   s.author           = { "Anviking" => "anviking@me.com" }
-  s.source           = { :git => "https://github.com/Anviking/Decodable.git", :tag => "#{s.version}" }
+  s.source           = { :git => "https://github.com/YTech/Decodable.git", :tag => "#{s.version}" }
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.9'
   s.tvos.deployment_target = '9.0'
